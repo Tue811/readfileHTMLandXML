@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+	<employee id="be129">
+		<fullname>Nguyễn Thị Bích Tuệ</fullname>
+		<age>19</age>
+		<room>VNCERT</room>
+	</employee>
+	<employee id="be130">
+		<fullname>Nguyễn Thu Hương</fullname>
+		<age>19</age>
+		<room>VNCERT</room>
+	</employee>
+	<employee id="be131">
+		<fullname>Lương Thế Tài</fullname>
+		<age>19</age>
+		<room>VNCERT</room>
+	</employee>
+	<employee id="be132">
+		<fullname>Lương Thế Tài</fullname>
+		<age>19</age>
+		<room>VNCERT</room>
+	</employee>
+	<employee id="be133">
+		<fullname>Phan Minh Quân</fullname>
+		<age>19</age>
+		<room>VNCERT</room>
+	</employee>
+	<employee id="be135">
+		<fullname>Nghiêm Thị Thuỷ</fullname>
+		<age>19</age>
+		<room>VNCERT</room>
+	</employee>
+	<employee id="be136">
+		<fullname>Mã Quốc Phong</fullname>
+		<age>19</age>
+		<room>VNCERT</room>
+	</employee>
+</employees>
